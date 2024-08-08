@@ -1,2 +1,2 @@
-export const URL="https://microservices-based-blog-app-main-backend.onrender.com"
-export const IF="https://microservices-based-blog-app-main-backend.onrender.com/images/"
+export const URL="http://localhost:5008"
+export const IF="http://localhost:5000/images/"
